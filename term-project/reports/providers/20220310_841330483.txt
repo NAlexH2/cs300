@@ -1,0 +1,7 @@
+Jessica Ware (ID: 841330483)
+90296 Martinez Heights, Hermosa Beach, CA 90254
+
+   Date    |       Received      | Member Name  | Member ID | Service |   Fee  
+-------------------------------------------------------------------------------
+03-10-2022 | 03-10-2022 20:10:29 | Glenn Sparks | 047004565 |  809282 |  $49.99
+03-10-2022 | 03-10-2022 20:10:29 | Mark Miller  | 637673096 |  692675 | $249.99

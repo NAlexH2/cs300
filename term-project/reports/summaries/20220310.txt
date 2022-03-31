@@ -1,0 +1,11 @@
+     Name      | Consultations |   Fee  
+----------------------------------------
+Kyle Wilkinson |             4 | $419.96
+Mark Cantrell  |             4 | $579.96
+Jessica Ware   |             2 | $299.98
+Shannon Tran   |             4 | $469.96
+Cecelia Carson |             4 | $279.96
+
+Total providers:     5
+Total consultations: 18
+Total fee:           $2049.82
